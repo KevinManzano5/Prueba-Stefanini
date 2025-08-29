@@ -86,3 +86,11 @@ describe("Login", () => {
     })
 });
 ```
+
+# Sección 3 – Soft Skills
+
+### 3.1 Si en tu equipo ágil un desarrollador insiste en que un bug reportado “no es un problema real”, ¿cómo manejarías la situación?
+Con evidencias del bug y el debido respeto argumento frente al lider inmediato para determinar si es un bug y así evitar problemas con el desarrollador.
+
+### 3.2 Describe un ejemplo donde tu atención al detalle haya evitado un problema importante en producción.
+En una ocasión se estaba unificando el login de una aplicación legacy con la nueva versión (esto para que los usuarios fuesen asimilando la nueva versión sin ser un cambio abrupto) y encontramos en las pruebas flujos no contemplados que comprometían la seguridad de las credenciales de los usuarios y también la de la propia aplicación.
