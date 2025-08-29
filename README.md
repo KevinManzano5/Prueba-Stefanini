@@ -1,3 +1,5 @@
+# Prueba Kevin Alejandro Manzano Torres - QA Automatizador
+
 # Sección 1 – Conocimientos Teóricos
 ### 1.1 Explica brevemente la diferencia entre pruebas funcionales y no funcionales.
 
